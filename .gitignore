@@ -1,0 +1,4 @@
+.venv/
+.mail-profile/
+debug/
+__pycache__/
